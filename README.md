@@ -1,6 +1,6 @@
 Olá sou o Peckz
 
-- Focado em aprender JavaScript, Python e C#
+- Focado em aprender Java, Python e C#
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Peckz-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
